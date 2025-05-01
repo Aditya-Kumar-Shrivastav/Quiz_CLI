@@ -22,3 +22,10 @@ This is student page
 This is admin's page
 
 
+## REQUIREMENTS
+
+PYTHON
+MYSQL
+
+
+
